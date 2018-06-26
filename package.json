@@ -27,5 +27,19 @@
       "Firefox ESR",
       "not ie < 11"
     ]
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kentcdodds/create-react-app-react-testing-library-example.git"
+  },
+  "keywords": [],
+  "author": "Kent C. Dodds <kent@doddsfamily.us> (http://kentcdodds.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kentcdodds/create-react-app-react-testing-library-example/issues"
+  },
+  "homepage": "https://github.com/kentcdodds/create-react-app-react-testing-library-example#readme"
 }
